@@ -77,5 +77,5 @@ def main():
             
         p.click(VOID)  
 
-print("Running 3 POS QUCK...")
+print("Running BLITZKRIEG 3 POS...")
 main()
