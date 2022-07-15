@@ -5,7 +5,7 @@ import pyautogui as p
 BLITZ_COLOR = (0,226,88)
 WITHDRAW_COLOR = (0,199,77)
 
-#SCREENSHOT REGIONS (FULLHD)
+#SCREENSHOT REGIONS (1024)
 BLITZ_REGION = (208,762,469,2)
 WITHDRAW_REGION = (744,321,1,1)
 
@@ -77,5 +77,5 @@ def main():
             StartWithdraw()
         p.click(VOID)  
 
-print("Running NEW BLITZ 3 POS...")
+print("Running NEW BLITZ 3 POS [1024x768]...")
 main()
